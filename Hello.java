@@ -1,6 +1,8 @@
-public void Test {
+public class Hello {
 
-  public static void main(String[] srgs){
+  public static void main(String[] args){
+
+    System.out.println(123);
   
   } 
 
